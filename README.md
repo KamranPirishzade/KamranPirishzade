@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Kamran
 
-<!--
-**KamranPirishzade/KamranPirishzade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌌 Frontend Developer in training  
+⚔️ May the **code** be with you  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About me
+- Frontend developer who enjoys building clean UIs
+- React & JavaScript enthusiast
+- **Hackathon lover** — I enjoy building fast, learning faster
+- APIs, AI features, and problem-solving excite me
+- I turn coffee ☕ into code (sometimes bugs too)
+
+---
+
+## 🧠 Tech I use
+```js
+const kamran = {
+  frontend: ["HTML", "CSS", "JavaScript", "React"],
+  styling: ["Tailwind CSS"],
+  tools: ["Git", "GitHub"],
+  interests: ["Hackathons", "AI", "Clean UI"],
+  motto: "Learn. Build. Repeat."
+};
