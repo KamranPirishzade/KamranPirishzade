@@ -14,12 +14,32 @@
 
 ---
 
-## 🧠 Tech I use
+## 🛠 Skills
+
 ```js
-const kamran = {
-  frontend: ["HTML", "CSS", "JavaScript", "React"],
-  styling: ["Tailwind CSS"],
-  tools: ["Git", "GitHub"],
-  interests: ["Hackathons", "AI", "Clean UI"],
-  motto: "Learn. Build. Repeat."
+const skills = {
+  frontend: [
+    "JavaScript",
+    "TypeScript",
+    "HTML5",
+    "CSS3",
+    "React",
+    "Redux",
+    "Tailwind CSS",
+    "SASS",
+    "GSAP",
+    "jQuery"
+  ],
+  tools: [
+    "Git",
+    "GitHub",
+    "REST API Integration"
+  ],
+  backend: {
+    familiarWith: [
+      "Python (Flask)",
+      "SQLAlchemy"
+    ],
+    note: "Frontend-focused, backend used in small projects"
+  }
 };
