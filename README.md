@@ -24,11 +24,11 @@ const skills = {
     "HTML5",
     "CSS3",
     "React",
+    "Next.js",
     "Redux",
     "Tailwind CSS",
     "SASS",
     "GSAP",
-    "jQuery"
   ],
   tools: [
     "Git",
@@ -37,6 +37,7 @@ const skills = {
   ],
   backend: {
     familiarWith: [
+      "Java",
       "Python (Flask)",
       "SQLAlchemy"
     ],
