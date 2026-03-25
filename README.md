@@ -27,6 +27,8 @@ const skills = {
     "Next.js",
     "Redux",
     "Tailwind CSS",
+    "Jest",
+    "Playwright",
     "SASS",
     "GSAP",
   ],
